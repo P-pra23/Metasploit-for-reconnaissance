@@ -21,7 +21,9 @@ Investigate on the various categories of tools as follows:
 Open terminal and try execute some kali linux commands
 
 ## EXECUTION STEPS AND ITS OUTPUT:
+Find out the ip address of the attackers system
 
+## OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/f39e8ea0-b4b0-4578-9a95-c63b7c2dc390)
 
